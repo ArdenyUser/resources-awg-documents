@@ -1,0 +1,7 @@
+<h1>Arden Writer Group - SLD Software</h1>
+<h2>Primary Install Version 0.1</h2>
+<p>The software application.</p>
+<p>Launch Links:</p>
+<p><a href="https://slimwiki.com/arden-writers-group">SLD Software GUI Wiki</a></p>
+<p>All SLD Software data from the Arden Writers Group Wiki is classified with K2 classification level&nbsp;roughly<strong>.</strong></p>
+<p>&nbsp;</p>
